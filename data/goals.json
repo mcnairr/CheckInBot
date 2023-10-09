@@ -1,0 +1,34 @@
+{
+    "Employees": [
+      {
+        "Name": "Ryan McNair",
+        "Title": "Technical Product Owner",
+        "HireDate": "2019-05-06",
+        "Introduction": "I am currently enjoing my work and colleagues, and would like to share some feedback about my job.",
+        "Goals": [
+          {
+            "ID": 1,
+            "Description": "Research, gather requirements, work with customers, and deliver one brand new revenue generating Archer SaaS feature.",
+            "GoalDate": "2023-12-31",
+            "Achieved": "At Risk",
+            "PushToDate": ""
+          },
+          {
+            "ID": 2,
+            "Description": "Learn the basics of the Go programming language through online classes, tutorials, a sample project, and make a real contribution to an Archer SaaS project written in Go.",
+            "GoalDate": "2023-07-31",
+            "Achieved": "In Process",
+            "PushToDate": "2023-10-31"
+        },
+        {
+            "ID": 3,
+            "Description": "Have a second daughter and use Parental Leave to bond with her.",
+            "GoalDate": "2023-03-31",
+            "Achieved": "Yes!",
+            "PushToDate": ""
+            }
+        ]
+      }
+    ]
+  }
+  
