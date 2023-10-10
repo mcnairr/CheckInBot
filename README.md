@@ -5,6 +5,9 @@ Plus, it's a great conversation starter for any 1:1 meeting.  Availabile on-dema
 
 This project was created as practice in the go programming language. 
 
+## Diagram
+<img src="architecture_diagram.jpg" alt="architecture diagram" width="900" height="auto">
+
 ## Initial Deployment steps:
 
 $env:GOOS = "linux"
