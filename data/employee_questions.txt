@@ -1,15 +1,15 @@
 Q: What is the most exciting part of your job?
 
-A: answer
+A: I love the unique balance of my role between external customers and internal teams, and between business and technical needs.  It enables me to have a unique perspective on our work, and I’m always excited when I can help come up with a solution to a customer’s problem.
 
 Q: What aspect of your job do you wish you could change?
 
-A: answer
+A: Archer's future looks bright and I'm happy that many aspects of my job have changed and improved over the past couple years.  We have great IT systems, identity, and developer productivity tools.  We are starting to make progress on technical modernization.  With all the Archer experience I've gained over the past 4 years, and all the contributions I've made, the one aspect that hasn't changed much is salary.  I am wishing for a raise this year.
 
 Q: What factors contribute to you doing your best work?
 
-A: answer
+A: Autonomy, limited requests on my time, self-controlled context switches, respect for the Maker/Manager time scheduling construct, periods of flow, time to pursue mastery, loosely-coupled team relationships, rarely needing to rely or wait on peers, work topics that require self-directed learning, business leaders that communicate well.
 
 Q: What additional feedback do you have? 
 
-A: answer
+A: We need to ensure our "SaaS Parity" strategy is not lost. I would like to continue pursuing SaaS Parity feature development to win more customers, Archer Platform deployment automation for no-downtime upgrades, and helping complete the AWS Partner Program application for Marketplace re-selling. 
