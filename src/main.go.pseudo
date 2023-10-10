@@ -1,0 +1,39 @@
+package main
+
+/* CheckIn Bot automates the gathering of employee review documentation
+by querying various datasources for performance information and
+composing an email to the manager.
+Ryan McNair Oct 6 2023
+*/
+
+func main() {
+
+	//store incoming query params
+	//define constants
+	//evaluate the query param for authentication and authorization
+	//lookup secrets
+	//function to add sections to the email, like an append
+	//log function
+	//initialize the email
+	//Compose the email
+	//Send the email locally
+	//Send the email in the cloud
+
+	/* Sections:
+		Email header- employee name, title, date, intro blurb
+
+		Pull from text file:
+	    What is the most exciting part of your job?
+		What aspect of your job do you wish you could change?
+		What factors contribute to you doing your best work?
+		Additional Feedback
+
+		Pull from Jira:
+		What is at least one accomplishment we should celebrate? - Jira last 5 completed stories
+		What do you need from your manager / the management team to truly thrive in your role? - Jira next 5 stories
+		
+		Pull from JSON file:
+		IDP (Individual Development Plan) Goal/s - JSON Goal ID, Description, Date, Achieved, Push to (Date)
+	*/
+
+}
