@@ -1,0 +1,10 @@
+{
+    "ToEmail":          "<MANAGER_EMAIL>",
+    "ManagerInitials":  "<MANAGER_INITIALS>",
+    "FromEmail":        "<SES_SENDER_IDENTITY_EMAIL>",
+    "jiraEmail":        "<JIRA_USER_EMAIL>",
+    "apiToken":         "<JIRA_TOKEN>",
+    "jiraAPIURL":       "https://archer-irm.atlassian.net/rest/api/2/search",
+    "GoalsURL":         "https://raw.githubusercontent.com/<PATH>.json",
+    "FeedbackURL":      "https://raw.githubusercontent.com/<PATH>.txt"
+}
