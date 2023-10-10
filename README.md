@@ -60,7 +60,7 @@ $env:GOOS = "linux"
 $env:GOARCH = "amd64"
 go build -o main
 zip deployment.zip main
-aws lambda update-function-code --function-name CheckInBotFunction --zip-file fileb://deployment.zip --region us-west-2
+aws lambda update-function-code --function-name CheckInBotFunction --zip-file fileb://deployment.zip --region <YOUR_REGION>
 
 
 ## API update:
