@@ -29,6 +29,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
+	"strings"
 	"time"
 
 	"github.com/aws/aws-lambda-go/events"
@@ -109,7 +110,7 @@ func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyRespo
 	apiToken = config.ApiToken
 
 	// Authentication and authorization control: evaluate the initials query param before doing more things
-	if request.QueryStringParameters["initials"] != ManagerInitials {
+	if strings.ToLower(request.QueryStringParameters["initials"]) != ManagerInitials {
 		log.Println("Authorization error.") //Log an error
 		response := events.APIGatewayProxyResponse{
 			StatusCode: 403,
